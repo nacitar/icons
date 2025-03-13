@@ -2,7 +2,7 @@
 Custom icons for anything that seems to need them.
 
 # kitty
-I use a fluxbox theme with a 20px titlebar heigh, meaning 18x18 icons.  I
+I use a fluxbox theme with a 20px titlebar height, meaning 18x18 icons.  I
 needed an icon that looks good at this size, so I made a SVG of a simple
 terminal icon.
 
